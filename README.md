@@ -15,3 +15,5 @@ Then,
 ```sh
 react-native run-android
 ```
+
+![Battery status](https://image.ibb.co/cLvFQ0/mobscreen.png)
